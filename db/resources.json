@@ -1,5 +1,5 @@
 {
-"count": 1724,
+"count": 1725,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -2199,6 +2199,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.cryptocompare.com/api#",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "CryptoLabel",
+        "Description": "Free crypto address labels. Identify known addresses on major networks with a free API",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://cryptolabel.io/",
         "Category": "Cryptocurrency"
     },
     {
