@@ -1,5 +1,5 @@
 {
-"count": 1725,
+"count": 1726,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5127,6 +5127,14 @@
         "Auth": "",
         "Cors": "unknown",
         "Link": "https://www.energidataservice.dk/",
+        "Category": "Environment"
+    },
+    {
+        "API": "Elpriser i dag",
+        "Description": "Swedish electricity spot prices including VAT and energy tax, in 15-minute intervals",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://elprisernaidag.se/api/",
         "Category": "Environment"
     },
     {
