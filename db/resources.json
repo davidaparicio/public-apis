@@ -1,5 +1,5 @@
 {
-"count": 1726,
+"count": 1727,
 "entries": [
     {
         "API": "Advanced Multilanguage AI Translator (RapidAPI)",
@@ -5207,6 +5207,14 @@
         "Auth": "apiKey",
         "Cors": "no",
         "Link": "https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html",
+        "Category": "Environment"
+    },
+    {
+        "API": "Strømpriser i dag",
+        "Description": "Norwegian electricity prices including VAT and the state subsidy, plus grid tariffs for all 73 grid companies",
+        "Auth": "",
+        "Cors": "yes",
+        "Link": "https://strompriseridag.no/api/",
         "Category": "Environment"
     },
     {
